@@ -6,12 +6,12 @@ import { useControls } from 'leva';
 
 const Models = [
   { title: '1KG', url: './1KG.glb', miEscala: 1.1, miPosicion: 4 },
-  { title: '2', url: './2.glb', miEscala: 1.1, miPosicion: 4 },
-  { title: '3', url: './3.glb', miEscala: 1.1, miPosicion: 4 },
-  { title: '4', url: './4.glb', miEscala: 1.1, miPosicion: 4 },
-  { title: '5', url: './5.glb', miEscala: 1.1, miPosicion: 4 },
-  { title: '6', url: './6.glb', miEscala: 1.1, miPosicion: 4 },
-  { title: '7', url: './7.glb', miEscala: 1.1, miPosicion: 4 },
+  { title: '2KG', url: './2KG.glb', miEscala: 1.1, miPosicion: 4 },
+  { title: '3KG', url: './3KG.glb', miEscala: 1.1, miPosicion: 4 },
+  { title: '4KG', url: './4KG.glb', miEscala: 1.1, miPosicion: 4 },
+  { title: '5KG', url: './5KG.glb', miEscala: 1.1, miPosicion: 4 },
+  { title: '6KG', url: './6KG.glb', miEscala: 1.1, miPosicion: 4 },
+  { title: '7KG', url: './7KG.glb', miEscala: 1.1, miPosicion: 4 },
   { title: '8', url: './8.glb', miEscala: 1.1, miPosicion: 4 },
   { title: '9', url: './9.glb', miEscala: 1.1, miPosicion: 4 },
 ];
