@@ -12,8 +12,8 @@ const Models = [
   { title: '5KG', url: './5KG.glb', miEscala: 1.1, miPosicion: 4 },
   { title: '6KG', url: './6KG.glb', miEscala: 1.1, miPosicion: 4 },
   { title: '7KG', url: './7KG.glb', miEscala: 1.1, miPosicion: 4 },
-  { title: '8', url: './8.glb', miEscala: 1.1, miPosicion: 4 },
-  { title: '9', url: './9.glb', miEscala: 1.1, miPosicion: 4 },
+  // { title: '8', url: './8.glb', miEscala: 1.1, miPosicion: 4 },
+  // { title: '9', url: './9.glb', miEscala: 1.1, miPosicion: 4 },
 ];
 
 function Model({ url, miEscala, miPosicion }) {
